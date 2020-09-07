@@ -1,0 +1,21 @@
+:root {
+    --menu-color: rgba(0, 0, 0, 0.7);
+    --color-1: #f7444e;
+    --color-2: #f7f8f3;
+    --color-3: #78bcc4;
+    --color-4: #002c3e;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: "Arbutus Slab", sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
